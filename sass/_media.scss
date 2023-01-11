@@ -1,0 +1,38 @@
+@media (max-width: 1200px) {
+   .right-menu {
+      display: none;
+   }
+}
+@media (max-width: 567px) {
+   .form-up__button-box {
+      gap: 12px;
+   }
+}
+@media (max-width: 448px) {
+   .form-up__button-box {
+      gap: 10px;
+   }
+   .form-up__input {
+      height: 60px;
+      font-size: 11px;
+      border: 0;
+      color: rgba(24, 24, 24, 0.2);
+      outline: 0;
+      width: 100%;
+   }
+   .comment-up__logo-text {
+      font-size: 10px;
+   }
+   .comment-up__main {
+      padding: 15px 0 20px 5px;
+   }
+   .comment-up__main-text {
+      font-size: 12px;
+   }
+   .comment-up__text {
+      padding: 15px 0 15px 5px;
+   }
+   .form-up {
+      padding: 25px 20px 0;
+   }
+}
